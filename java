@@ -23,7 +23,7 @@ let coin = {
              image.src = './images/head.jpg'
         }
         else {
-            image.src = './images/tail.jpg'
+            image.src = './images/Tail.jpg'
         }
         /* 3. Set the properties of this image element to show either face-up
            or face-down, depending on whether this.state is 0 or 1.*/
